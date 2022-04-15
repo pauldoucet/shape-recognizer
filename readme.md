@@ -6,7 +6,7 @@ This project is a native android app coded in Kotlin. It is made of 3 different 
 ### The addition fragment
 In this view, the user can add a new shape to the library so that the app can learn its pattern and then be able to support its detection.
 
-![](./capture3.jpg)
+<img src="./capture3.jpg" alt="drawing" width="200"/>
 
 ### The library fragment
 In this view the user is able to track all the shapes added so far.
